@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ManishViewTool::Renderer.copyright "Manish Anand", "All rights reserved"
+```
 
 ## Development
 
